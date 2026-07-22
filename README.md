@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/arcentlabs-banner.jpg"
+  <img src="./assets/arcentlabs-github-banner.jpg"
        alt="ArcentLabs"
        width="100%">
 </p>
