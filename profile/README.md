@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image Jul 22, 2026, 04_32_23 PM.png…]()
+<img width="1717" height="916" alt="ChatGPT Image Jul 22, 2026, 04_32_23 PM" src="https://github.com/user-attachments/assets/e63edf09-63de-4ddb-807b-9ac46e381c05" />
 
 # ArcentLabs
 
