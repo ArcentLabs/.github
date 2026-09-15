@@ -2,11 +2,13 @@
 
 # ArcentLabs
 
-### AI for in-silico prioritization in healthy ageing research
+### Evidence-first AI for life-science R&D
 
-ArcentLabs develops specialized computational systems for translational ageing biology.
+ArcentLabs is a computational life-sciences company developing evidence-first AI systems for high-stakes research and development decisions.
 
-Our work focuses on helping researchers prioritize healthy-ageing intervention candidates before costly and time-consuming laboratory validation.
+Our work spans therapeutic discovery, bioprocess development and clinical research. We focus on problems where experimental data are limited or heterogeneous, validation is expensive, and uncertainty must be made explicit rather than hidden.
+
+Across our programs, we combine biological and mechanistic modelling, machine learning, rigorous evaluation and human oversight to help partners decide what deserves the next experiment.
 
 ## GEROTWIN
 
